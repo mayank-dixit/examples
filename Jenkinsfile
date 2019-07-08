@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('test1') {
       steps {
-        sh 'echo "Mayank test"'
+        sh 'echo "Mayank test2"'
       }
     }
   }
